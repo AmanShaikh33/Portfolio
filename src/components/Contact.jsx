@@ -25,7 +25,7 @@ const Contact = () => {
       <div className="mt-10 space-x-6 text-sm text-gray-300">
         <a href="https://linkedin.com/in/amanshaikh" target="_blank" className="hover:text-yellow-300">LinkedIn</a>
         <a href="https://github.com/AmanShaikh33" target="_blank" className="hover:text-yellow-300">GitHub</a>
-        <a href="/Aman_Shaikh_Resume.pdf" download className="hover:text-yellow-300">Download Resume 🔥</a>
+        <a href="/AmanShaikh__resume.pdf" download className="hover:text-yellow-300">Download Resume 🔥</a>
       </div>
     </div>
   );
