@@ -1,6 +1,7 @@
 import React from 'react';
 import Hero from './components/Hero';
 import Skills from './components/Skills';
+import Experience from './components/Experience'; // ✅ Import added
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 
@@ -18,6 +19,7 @@ const App = () => {
       {/* 🌟 Main Sections */}
       <Hero />
       <Skills />
+      <Experience /> {/* ✅ Experience section included */}
       <Projects />
       <Contact />
     </div>
