@@ -5,7 +5,7 @@ const projects = [
   {
     title: "Huddle",
     desc: "A modern social media platform with real-time chat, profiles, and follow features. Built with the MERN stack and styled using Tailwind CSS.",
-    live: "https://mern-social-91de.onrender.com/",
+    live: "https://huddlenew.vercel.app",
     github: "https://github.com/AmanShaikh33/mern-social",
     tech: ["MongoDB", "Express", "React", "Node.js", "Tailwind CSS", "JWT"],
   },
